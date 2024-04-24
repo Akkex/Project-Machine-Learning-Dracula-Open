@@ -1,0 +1,151 @@
+,Rank,Fortune 500rank,Name,Industry,Revenue(USD millions),Profits(USD millions),Employees,Headquarters
+0,1,15,Volkswagen,Automotive,"293,685","15,223","675,805",Wolfsburg
+1,2,16,Uniper,Electric utility,"288,309","-19,961","7,008",Düsseldorf
+2,3,47,Mercedes-Benz Group,Automotive,"157,782","15,252","168,797",Stuttgart
+3,4,57,BMW,Automotive,"149,991","18,870","149,475",Munich
+4,5,67,Allianz,Insurance,"129,059","7,087","159,253",Munich
+5,6,73,E.ON,Electric utility,"121,646","1,926","69,378",Essen
+6,7,79,Deutsche Telekom,Telecommunications,"120,108","8,415","206,759",Bonn
+7,8,103,Deutsche Post,Transportation,"99,324","5,636","554,975",Bonn
+8,9,118,Robert Bosch GmbH,Automotive parts,"91,847","1,367","421,338",Stuttgart
+9,10,119,BASF,Chemicals,"91,846",-660,"111,481",Ludwigshafen
+10,11,162,Siemens,Conglomerate,"77,860","4,027","311,000",Munich / Berlin
+11,12,170,Munich Re,Insurance,"75,747","3,610","41,389",Munich
+12,13,232,Deutsche Bahn,Transportation,"59,210",-262,"324,136",Berlin
+13,14,237,EnBW,Electric utility,"58,901","1,828","25,339",Karlsruhe
+14,15,249,Talanx,Insurance,"56,029","1,233","23,669",Hanover
+15,16,264,Daimler Truck,Automotive,"53,582","2,803","102,888",Leinfelden-Echterdingen
+16,17,265,Bayer,Pharmaceuticals,"53,365","4,365","101,369",Leverkusen
+17,18,288,Edeka Zentrale,Retail,"49,481",416,"408,900",Hamburg
+18,19,315,ZF Friedrichshafen,Automotive parts,"46,068",239,"161,901",Friedrichshafen
+19,20,330,ThyssenKrupp,Conglomerate,"44,502","1,229","94,494",Essen
+20,21,346,Fresenius,Healthcare,"42,954","1,443","282,024",Bad Homburg
+21,22,354,Deutsche Bank,Banking,"42,285","5,701","84,930",Frankfurt
+22,23,362,Continental AG,Automotive parts,"41,449",70,"199,038",Hanover
+23,24,367,RWE,Electric utility,"40,352","2,858","18,278",Essen
+24,25,388,Phoenix Pharmahandel,Retail,"38,045",252,"35,178",Mannheim
+25,26,416,Hapag-Lloyd,Shipping,"36,331",252,"14,248",Hamburg
+26,27,438,Lufthansa,Airline,"34,446",832,"93,083",Cologne
+27,28,472,SAP SE,Technology,"32,469","2,402","111,961",Walldorf
+28,29,474,Metro AG,Retail,"32,186",-361,"86,910",Düsseldorf
+29,30,490,Siemens Energy,Energy technology,"31,367",-437,"53,954",Munich
+30,1,15,Volkswagen,Automotive,"293,685","15,223","675,805",Wolfsburg
+31,2,16,Uniper,Electric utility,"288,309","-19,961","7,008",Düsseldorf
+32,3,47,Mercedes-Benz Group,Automotive,"157,782","15,252","168,797",Stuttgart
+33,4,57,BMW,Automotive,"149,991","18,870","149,475",Munich
+34,5,67,Allianz,Insurance,"129,059","7,087","159,253",Munich
+35,6,73,E.ON,Electric utility,"121,646","1,926","69,378",Essen
+36,7,79,Deutsche Telekom,Telecommunications,"120,108","8,415","206,759",Bonn
+37,8,103,Deutsche Post,Transportation,"99,324","5,636","554,975",Bonn
+38,9,118,Robert Bosch GmbH,Automotive parts,"91,847","1,367","421,338",Stuttgart
+39,10,119,BASF,Chemicals,"91,846",-660,"111,481",Ludwigshafen
+40,11,162,Siemens,Conglomerate,"77,860","4,027","311,000",Munich / Berlin
+41,12,170,Munich Re,Insurance,"75,747","3,610","41,389",Munich
+42,13,232,Deutsche Bahn,Transportation,"59,210",-262,"324,136",Berlin
+43,14,237,EnBW,Electric utility,"58,901","1,828","25,339",Karlsruhe
+44,15,249,Talanx,Insurance,"56,029","1,233","23,669",Hanover
+45,16,264,Daimler Truck,Automotive,"53,582","2,803","102,888",Leinfelden-Echterdingen
+46,17,265,Bayer,Pharmaceuticals,"53,365","4,365","101,369",Leverkusen
+47,18,288,Edeka Zentrale,Retail,"49,481",416,"408,900",Hamburg
+48,19,315,ZF Friedrichshafen,Automotive parts,"46,068",239,"161,901",Friedrichshafen
+49,20,330,ThyssenKrupp,Conglomerate,"44,502","1,229","94,494",Essen
+50,21,346,Fresenius,Healthcare,"42,954","1,443","282,024",Bad Homburg
+51,22,354,Deutsche Bank,Banking,"42,285","5,701","84,930",Frankfurt
+52,23,362,Continental AG,Automotive parts,"41,449",70,"199,038",Hanover
+53,24,367,RWE,Electric utility,"40,352","2,858","18,278",Essen
+54,25,388,Phoenix Pharmahandel,Retail,"38,045",252,"35,178",Mannheim
+55,26,416,Hapag-Lloyd,Shipping,"36,331",252,"14,248",Hamburg
+56,27,438,Lufthansa,Airline,"34,446",832,"93,083",Cologne
+57,28,472,SAP SE,Technology,"32,469","2,402","111,961",Walldorf
+58,29,474,Metro AG,Retail,"32,186",-361,"86,910",Düsseldorf
+59,30,490,Siemens Energy,Energy technology,"31,367",-437,"53,954",Munich
+60,1,15,Volkswagen,Automotive,"293,685","15,223","675,805",Wolfsburg
+61,2,16,Uniper,Electric utility,"288,309","-19,961","7,008",Düsseldorf
+62,3,47,Mercedes-Benz Group,Automotive,"157,782","15,252","168,797",Stuttgart
+63,4,57,BMW,Automotive,"149,991","18,870","149,475",Munich
+64,5,67,Allianz,Insurance,"129,059","7,087","159,253",Munich
+65,6,73,E.ON,Electric utility,"121,646","1,926","69,378",Essen
+66,7,79,Deutsche Telekom,Telecommunications,"120,108","8,415","206,759",Bonn
+67,8,103,Deutsche Post,Transportation,"99,324","5,636","554,975",Bonn
+68,9,118,Robert Bosch GmbH,Automotive parts,"91,847","1,367","421,338",Stuttgart
+69,10,119,BASF,Chemicals,"91,846",-660,"111,481",Ludwigshafen
+70,11,162,Siemens,Conglomerate,"77,860","4,027","311,000",Munich / Berlin
+71,12,170,Munich Re,Insurance,"75,747","3,610","41,389",Munich
+72,13,232,Deutsche Bahn,Transportation,"59,210",-262,"324,136",Berlin
+73,14,237,EnBW,Electric utility,"58,901","1,828","25,339",Karlsruhe
+74,15,249,Talanx,Insurance,"56,029","1,233","23,669",Hanover
+75,16,264,Daimler Truck,Automotive,"53,582","2,803","102,888",Leinfelden-Echterdingen
+76,17,265,Bayer,Pharmaceuticals,"53,365","4,365","101,369",Leverkusen
+77,18,288,Edeka Zentrale,Retail,"49,481",416,"408,900",Hamburg
+78,19,315,ZF Friedrichshafen,Automotive parts,"46,068",239,"161,901",Friedrichshafen
+79,20,330,ThyssenKrupp,Conglomerate,"44,502","1,229","94,494",Essen
+80,21,346,Fresenius,Healthcare,"42,954","1,443","282,024",Bad Homburg
+81,22,354,Deutsche Bank,Banking,"42,285","5,701","84,930",Frankfurt
+82,23,362,Continental AG,Automotive parts,"41,449",70,"199,038",Hanover
+83,24,367,RWE,Electric utility,"40,352","2,858","18,278",Essen
+84,25,388,Phoenix Pharmahandel,Retail,"38,045",252,"35,178",Mannheim
+85,26,416,Hapag-Lloyd,Shipping,"36,331",252,"14,248",Hamburg
+86,27,438,Lufthansa,Airline,"34,446",832,"93,083",Cologne
+87,28,472,SAP SE,Technology,"32,469","2,402","111,961",Walldorf
+88,29,474,Metro AG,Retail,"32,186",-361,"86,910",Düsseldorf
+89,30,490,Siemens Energy,Energy technology,"31,367",-437,"53,954",Munich
+90,1,15,Volkswagen,Automotive,"293,685","15,223","675,805",Wolfsburg
+91,2,16,Uniper,Electric utility,"288,309","-19,961","7,008",Düsseldorf
+92,3,47,Mercedes-Benz Group,Automotive,"157,782","15,252","168,797",Stuttgart
+93,4,57,BMW,Automotive,"149,991","18,870","149,475",Munich
+94,5,67,Allianz,Insurance,"129,059","7,087","159,253",Munich
+95,6,73,E.ON,Electric utility,"121,646","1,926","69,378",Essen
+96,7,79,Deutsche Telekom,Telecommunications,"120,108","8,415","206,759",Bonn
+97,8,103,Deutsche Post,Transportation,"99,324","5,636","554,975",Bonn
+98,9,118,Robert Bosch GmbH,Automotive parts,"91,847","1,367","421,338",Stuttgart
+99,10,119,BASF,Chemicals,"91,846",-660,"111,481",Ludwigshafen
+100,11,162,Siemens,Conglomerate,"77,860","4,027","311,000",Munich / Berlin
+101,12,170,Munich Re,Insurance,"75,747","3,610","41,389",Munich
+102,13,232,Deutsche Bahn,Transportation,"59,210",-262,"324,136",Berlin
+103,14,237,EnBW,Electric utility,"58,901","1,828","25,339",Karlsruhe
+104,15,249,Talanx,Insurance,"56,029","1,233","23,669",Hanover
+105,16,264,Daimler Truck,Automotive,"53,582","2,803","102,888",Leinfelden-Echterdingen
+106,17,265,Bayer,Pharmaceuticals,"53,365","4,365","101,369",Leverkusen
+107,18,288,Edeka Zentrale,Retail,"49,481",416,"408,900",Hamburg
+108,19,315,ZF Friedrichshafen,Automotive parts,"46,068",239,"161,901",Friedrichshafen
+109,20,330,ThyssenKrupp,Conglomerate,"44,502","1,229","94,494",Essen
+110,21,346,Fresenius,Healthcare,"42,954","1,443","282,024",Bad Homburg
+111,22,354,Deutsche Bank,Banking,"42,285","5,701","84,930",Frankfurt
+112,23,362,Continental AG,Automotive parts,"41,449",70,"199,038",Hanover
+113,24,367,RWE,Electric utility,"40,352","2,858","18,278",Essen
+114,25,388,Phoenix Pharmahandel,Retail,"38,045",252,"35,178",Mannheim
+115,26,416,Hapag-Lloyd,Shipping,"36,331",252,"14,248",Hamburg
+116,27,438,Lufthansa,Airline,"34,446",832,"93,083",Cologne
+117,28,472,SAP SE,Technology,"32,469","2,402","111,961",Walldorf
+118,29,474,Metro AG,Retail,"32,186",-361,"86,910",Düsseldorf
+119,30,490,Siemens Energy,Energy technology,"31,367",-437,"53,954",Munich
+120,1,15,Volkswagen,Automotive,"293,685","15,223","675,805",Wolfsburg
+121,2,16,Uniper,Electric utility,"288,309","-19,961","7,008",Düsseldorf
+122,3,47,Mercedes-Benz Group,Automotive,"157,782","15,252","168,797",Stuttgart
+123,4,57,BMW,Automotive,"149,991","18,870","149,475",Munich
+124,5,67,Allianz,Insurance,"129,059","7,087","159,253",Munich
+125,6,73,E.ON,Electric utility,"121,646","1,926","69,378",Essen
+126,7,79,Deutsche Telekom,Telecommunications,"120,108","8,415","206,759",Bonn
+127,8,103,Deutsche Post,Transportation,"99,324","5,636","554,975",Bonn
+128,9,118,Robert Bosch GmbH,Automotive parts,"91,847","1,367","421,338",Stuttgart
+129,10,119,BASF,Chemicals,"91,846",-660,"111,481",Ludwigshafen
+130,11,162,Siemens,Conglomerate,"77,860","4,027","311,000",Munich / Berlin
+131,12,170,Munich Re,Insurance,"75,747","3,610","41,389",Munich
+132,13,232,Deutsche Bahn,Transportation,"59,210",-262,"324,136",Berlin
+133,14,237,EnBW,Electric utility,"58,901","1,828","25,339",Karlsruhe
+134,15,249,Talanx,Insurance,"56,029","1,233","23,669",Hanover
+135,16,264,Daimler Truck,Automotive,"53,582","2,803","102,888",Leinfelden-Echterdingen
+136,17,265,Bayer,Pharmaceuticals,"53,365","4,365","101,369",Leverkusen
+137,18,288,Edeka Zentrale,Retail,"49,481",416,"408,900",Hamburg
+138,19,315,ZF Friedrichshafen,Automotive parts,"46,068",239,"161,901",Friedrichshafen
+139,20,330,ThyssenKrupp,Conglomerate,"44,502","1,229","94,494",Essen
+140,21,346,Fresenius,Healthcare,"42,954","1,443","282,024",Bad Homburg
+141,22,354,Deutsche Bank,Banking,"42,285","5,701","84,930",Frankfurt
+142,23,362,Continental AG,Automotive parts,"41,449",70,"199,038",Hanover
+143,24,367,RWE,Electric utility,"40,352","2,858","18,278",Essen
+144,25,388,Phoenix Pharmahandel,Retail,"38,045",252,"35,178",Mannheim
+145,26,416,Hapag-Lloyd,Shipping,"36,331",252,"14,248",Hamburg
+146,27,438,Lufthansa,Airline,"34,446",832,"93,083",Cologne
+147,28,472,SAP SE,Technology,"32,469","2,402","111,961",Walldorf
+148,29,474,Metro AG,Retail,"32,186",-361,"86,910",Düsseldorf
+149,30,490,Siemens Energy,Energy technology,"31,367",-437,"53,954",Munich
